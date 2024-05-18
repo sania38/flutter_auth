@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "189156673179",
+    "project_id": "prakflutterfirebase-e4b12",
+    "storage_bucket": "prakflutterfirebase-e4b12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189156673179:android:e4dc0eab40e417fd0a683e",
+        "android_client_info": {
+          "package_name": "com.example.auth_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "189156673179-g8v1peetrm61ripd23ghpq6tjo7ukl69.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.auth_firebase",
+            "certificate_hash": "6becb9960eb6152295b9d66cbcc7c814269ee686"
+          }
+        },
+        {
+          "client_id": "189156673179-mlguqgtkvomurfodna9olpcvfh7h80pm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXEMABPjVOBWVg3Ax8LU9FFwuxJZu-slM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "189156673179-mlguqgtkvomurfodna9olpcvfh7h80pm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "189156673179-c00dgotmj74t6kf76ne3eo4lkh5vhp32.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.authFirebase"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189156673179:android:18e2d9f9ab6a5def0a683e",
+        "android_client_info": {
+          "package_name": "com.example.praktikum_06"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "189156673179-lgld1kjgs6t5422e8abtuphitmfoehl9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.praktikum_06",
+            "certificate_hash": "7f60dacdfbf522d3dcfc52433783a5da2f367d73"
+          }
+        },
+        {
+          "client_id": "189156673179-mlguqgtkvomurfodna9olpcvfh7h80pm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXEMABPjVOBWVg3Ax8LU9FFwuxJZu-slM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "189156673179-mlguqgtkvomurfodna9olpcvfh7h80pm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "189156673179-c00dgotmj74t6kf76ne3eo4lkh5vhp32.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.authFirebase"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
